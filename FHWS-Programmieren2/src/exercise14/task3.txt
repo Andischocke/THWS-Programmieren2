@@ -1,0 +1,10 @@
+Aufgabe 3: (Vorbedingungen und Nachbedingungen)
+
+    a)  Precondition: (exponent >= 0)
+        Postcondition: (solution >= minInteger) && (solution <= maxInteger)
+
+    b)  Precondition: (intArray != null)
+        Postcondition: -
+
+    c)  Precondition: (length > 0) && (width > 0)
+        Postcondition: (calculateArea() >= minInteger) && (calculateArea() <= maxInteger)

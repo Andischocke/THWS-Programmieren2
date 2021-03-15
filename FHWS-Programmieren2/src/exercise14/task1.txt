@@ -1,0 +1,6 @@
+Aufgabe 1: (Klasseninvarianten)
+
+    a) Klasseninvariante sind alle Vor/Nachbedingungen die für eine Klasse gelten
+    b) Precondition: (vorname != null) && (nachname != null)
+    c) PersonC: Konstruktor ermöglicht das anlegen einer leeren Instanz.
+    d) PersonD: Setter Methoden ermöglichen das ändern von vorname und nachname

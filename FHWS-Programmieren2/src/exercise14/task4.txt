@@ -1,0 +1,5 @@
+Aufgabe 4: (Liskovsches Substitutionsprinzip)
+
+    Liskovsche Substitutionsprinzip wird verletzt
+    Postconditions werden nicht eingehalten
+    SortedList hat ein anderes Ergebnis als NaturallyOrderedList
